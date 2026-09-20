@@ -14,6 +14,7 @@ Este repositorio documenta la configuración y verificación de un túnel VPN se
 * **Interfaz WAN:** `port1`[cite: 14]
 * **Interfaz LAN de destino:** `port2` (red `10.0.11.0/24`)[cite: 14]
 * **Rango de IP para clientes:** `192.168.100.10 – 192.168.100.250`[cite: 14]
+<img width="2720" height="1440" alt="topologia_vpn_ipsec_dialup_fortigate" src="https://github.com/user-attachments/assets/ffc2bca2-d513-4b21-bfd3-345baab4cee9" />
 
 ---
 
